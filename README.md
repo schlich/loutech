@@ -1,3 +1,77 @@
+# ARTICLES OF INCORPORATION OF
+# LouTech Cooperative
+
+## Article 1
+The name of this corporation is LouTech Cooperative, Inc. (the “Corporation”).
+
+## Article 2
+This Corporation is a cooperative corporation organized under the Cooperative Corporation Law. The purpose of this Corporation is to engage in any lawful act or activity for which a corporation may be organized under the law.
+
+## Article 3
+This corporation is a worker cooperative corporation organized under the Cooperative Corporation Law
+
+## Article 4
+The name and street address in the state of California of this Corporation’s initial agent for service of process is: 
+
+## Article 5
+The Corporation’s initial street address is [Location of Business]. The Corporation’s initial mailing address is [Mailing Address]. 
+
+## Article 6 - Voting Rights and Proprietary Interests
+The voting rights of each member of the Corporation are equal. The proprietary interests of each member of the Corporation are unequal and the rules by which the proprietary interests are determined shall be prescribed in the bylaws of the Corporation.
+
+## Article 7 - Worker-Members
+The Corporation shall have a single class of worker-members. Only persons described in -- are eligible for worker-membership.
+
+### Section 1. Voting Power
+Each worker-member shall have one vote on all matters to be voted on by the worker-members in accordance with applicable law, these Articles, and the Corporation’s bylaws.
+
+### Section 2. Restrictions on Transfer
+All worker-memberships shall be non-assessable and may not be transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Corporation under the redemption provisions set forth in these articles of incorporation or in the Corporation’s bylaws.
+
+### Section 3. Patronage
+A portion of the Corporation’s net earnings or losses shall be allocated to worker-members on the basis of each worker-member’s patronage of the Corporation (“Patronage Dividend”) on an annual basis. Patronage may be measured by work performed, including wages earned, number of hours worked, number of jobs created, or some combination of these measures, as determined by the board of directors of the Corporation. 
+
+### Section 4. Distribution Preference
+In the event of any voluntary or involuntary liquidation, dissolution or winding up of the Corporation or (as defined in Article 7.5), after payment of all amounts required to be paid to the holders of community investor shares, the current and prior  worker-members shall be entitled to receive all remaining assets available for distribution to the Corporation’s equity holders on the basis of each such worker-member’s total patronage of the Corporation during the time when he or she was a worker-member of the Corporation, as determined by the board of directors of the Corporation. No distribution need be made to any person who fails to acknowledge the receipt of notice of liquidation in a timely manner. Said notice shall be deemed sufficient if sent by certified mail, at least 30 days before distribution of any residual assets, to the person’s last known business or residence address. Assets available for distribution to equity holders shall not include amounts in the indivisible reserve account. Any amount in the indivisible reserve account shall be allocated to [designate cooperative development organization here]. 
+
+### Section 5. Definition of Deemed Liquidation Event
+"Deemed Liquidation Event” means (a) a consolidation, merger or other similar transaction of or involving the Corporation in which  the  worker-members of the Corporation  immediately  prior to such consolidation, merger or other similar transaction do not continue to hold, immediately after the consummation of such consolidation, merger or other similar transaction, a majority of  the voting power  of the equity  interests of the surviving entity, or (b) a sale or other transfer of all or substantially all of the Corporation’s assets to a third party.
+
+## Article 8. Community Investor Shares Authorized
+The Corporation may issue shares of its capital stock to community investors as defined in California Corporations Code §12238(e) (“Community Investor Shares”). The Corporation is authorized to issue [insert number of shares] Community Investor Shares. 
+
+## Article 9. Rights, Privileges, and Preferences of Community Investor Shares. 
+### Section 1. Voting Power
+The voting power of holders of community investor shares is limited to approval rights only over the following actions: a merger, sale of major assets outside the ordinary course of business, reorganization, or dissolution. 
+
+Additionally, community investors shall have the right to approve of any amendment to these Articles if such an amendment would do any of the following: 
+(a) Materially and adversely affect the rights, privileges, preferences, restrictions or conditions of the community investor class as to voting, dissolution, redemption or transfer, or the obligations of that class, in a manner different than such action affects another class; 
+(b) Materially and adversely affect the community investor class as to voting, dissolution, redemption or transfer by changing the rights, privileges, preferences, restrictions or conditions of another class; 
+(c) Increase the number of memberships authorized for the community investor class; 
+(d) Increase the number of memberships authorized for another class. 
+(e) Effect an exchange, reclassification or cancellation of all or part of the memberships of any class; or, 
+(f) Authorize a new class of memberships. 
+
+Approval rights shall not include the right to propose any action. On any such matter, each holder of community investor shares shall be entitled to one vote, regardless of the number of shares owned. 
+
+### Section 2. Restrictions on Transfer
+Community investor shares may only be transferred under the prior written consent of the Corporation.
+
+### Section 3. Dividends
+From and after the issuance of any community investor share, dividends shall accrue on such share at a rate per annum equal to _ % of the Original Purchase Price ("Accruing Dividends"). Accruing Dividends shall accrue from day to day, whether declared or undeclared, and shall be cumulative (without compounding); provided, however, that, except as provided in Articles 9.4 or 9.5, Accruing Dividends shall be payable only if, as, and when declared by the board of directors of the Corporation, in its sole discretion. No Patronage Dividend (or any other dividend on worker-memberships) may be paid until all Accruing Dividends have been paid. “Original Purchase Price” means, with respect to any Community Investor Share, the original purchase price paid to the Corporation for such share by the initial purchaser, subject to appropriate adjustment in the event of any split, combination or other similar recapitalization with respect to the community investor shares.
+
+### Section 4. Distribution Preference
+In the event of any voluntary or involuntary liquidation, dissolution or winding up of the Corporation or Deemed Liquidation Event (as defined in Article 7.5), each holder of community investor shares shall be entitled to receive, in respect thereof, a distribution equal to the Original Purchase Price, plus the amount of any dividends accrued but unpaid thereon, prior to any distributions to holders of worker-memberships on account thereof.  If upon any such voluntary or involuntary liquidation, dissolution or winding up of the Corporation or Deemed Liquidation Event, the assets of the Corporation available for distribution shall be insufficient to pay each holder of community investor shares the full amount to which the holder shall be entitled under this Article 9.4, all of the holders of community investor shares shall share ratably in any distribution of the assets available for distribution in proportion to the respective amounts which would otherwise be payable to such holders if all amounts payable were paid in full.
+
+### Section 5. Put Rights. 
+“Holding Period” means three (3) years after issuance of community investor shares. After the Holding Period, if any holder of community investor shares requests, by written notice to the Corporation, that the Corporation redeem some or all of such community investor shares (the “Put Shares”), then the Corporation shall promptly confirm its obligations by written notice to such holder (the “Put Notice”) and redeem such Put Shares, at a price per share equal to the Original Purchase Price, plus the amount of any dividends accrued but unpaid thereon; provided, however, that the Corporation may, in its sole discretion, elect to redeem such shares in annual or semi-annual installments over a period determined by the Corporation and specified in the Put Notice, not to exceed five (5) years, with the first such installment occurring on a date determined by the Corporation, which shall not be less than sixty (60) nor more than ninety (90) days after the date of the Request Notice, and subsequent installments occurring every six (6) months or twelve (12) months, as applicable, after the date of the first such installment. 
+
+### Section 6. Call Rights
+At any time, the Corporation may, by written notice to any holder of community investor shares, elect to redeem some or all of such shares at a price per share equal to the Original Purchase Price, plus the amount of any dividends accrued but unpaid thereon
+
+## Article 10. Liability and Indemnification
+Subject to any provisions in the Corporation’s bylaws related to indemnification of directors or officers of the Corporation, the Corporation shall indemnify, to the fullest extent permitted by applicable law, any director or officer of the Corporation who was or is a party or is threatened to be made a party to any pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative, by reason of the fact that he or she is or was a director, officer, employee or agent of the Corporation.
+
 # CORPORATE BYLAWS OF
 # LouTech Cooperative,
 # INCORPORATED IN THE STATE OF MISSOURI
@@ -79,7 +153,8 @@ a.	Regular Meetings: Regular meetings of the Board of Directors shall be held at
 b.	Special Meetings: Special meetings of the Board may be called by the Chairperson or the President on two days’ notice to each director, either personally or by telephone, express delivery service, or email, and on four days’ notice by mail (effective upon deposit of such notice in the mail). The notice need not specify the purpose of a special meeting.
 
 ### Section 6. Quorum and Voting at Meetings
-A majority of the total number of authorized directors shall constitute a quorum for transaction of business.  The act of a majority of directors present at any meeting at which a quorum is present shall be the act of the Board of Directors, except as provided by law, the Articles of Incorporation, or these Bylaws. Each director present shall have one vote, irrespective of the number of shares of stock, if any, he or she may hold.
+3. A majority of the total number of authorized directors shall constitute a quorum for transaction of business.  The act of a majority of directors present at any meeting at which a quorum is present shall be the act of the Board of Directors, except as provided by law, the Articles of Incorporation, or these Bylaws. Each director present shall have one vote, irrespective of the number of shares of stock, if any, he or she may hold.
+2.	When a quorum is present, proposals shall be adopted using the modified consensus process as described in Section 5.1, unless otherwise required in the articles or bylaws.
 
 ### Section 7. Committees of Directors
 The Board of Directors, by resolution, may create one or more committees, each consisting of one or more Directors. Each such committee shall serve at the pleasure of the Board. All provisions under the Statutes and these Bylaws relating to meetings, action without meetings, notice, and waiver of notice, quorum, and voting requirements of the Board of Directors shall apply to such committees and their members.
@@ -105,7 +180,7 @@ The officers of the Corporation shall be a Chairperson, a President, a Secretary
 The Chairperson shall have overall responsibility and authority for management and operations of the Corporation, shall preside at all meetings of the Board of Directors and shareholders, and shall ensure that all orders and resolutions of the Board of Directors and shareholders are implemented.
 
 ### Section 3. President
-The President shall be the chief operating officer of the Corporation and shall have full responsibility and authority for management of the day-to-day operations of the Corporation. The President shall be an ex-officio member of all committees and shall have the general powers and duties of management and supervision usually vested in the office of president of a corporation.
+The President shall be the chief operating officer of the Corporation and shall have full responsibility and authority for management of the day-to-day operations of the Corporation. The President shall be an ex-officio member of all committees and shall have the general powers and duties of management and supervision usually vested in the office of president of a corporation. The President shall take on the duties of the Secretary if the Secretary is unable or unwilling to do so.
 
 ### Section 4.  Secretary
 The Secretary shall attend all meetings of the Board and all meetings of the shareholders and shall act as clerk thereof, and record all the votes of the Corporation and the minutes of all its transactions in a record to be kept for that purpose, and shall perform like duties for all committees of the Board of Directors when required. The Secretary shall give, or cause to be given, notice of all meetings of the shareholders and special meetings of the Board of Directors, and shall perform such other duties as may be prescribed by the Board of Directors or President, and under whose supervision the Secretary shall be. The Secretary shall maintain the records, minutes, and seal of the Corporation and may attest any instruments signed by any other officer of the Corporation.
@@ -118,6 +193,9 @@ The officers of the Corporation shall hold office until their successors are cho
 
 ### Section 7. Compensation
 The compensation of officers of the Corporation shall be fixed by the Board of Directors.
+
+### Section 8. Nomination and Election of Officers
+Any Worker-member can nominate any Worker-member, including himself/herself, for any office. Nominations shall take place at the Annual Member Meeting and at the preceding regular meeting. Officers shall then be elected at the Annual Member Meeting by an electronic approval-style ballot, to serve one-year terms. The candidate receiving the highest number of votes for an office shall be elected.
 
 ## ARTICLE VI – CAPITAL STOCK
 
@@ -153,13 +231,17 @@ The Board of Directors may set apart, out of the funds of the Corporation availa
 The Corporation may purchase and maintain insurance in a reasonable amount on behalf of any person who is or was a director, officer, agent, or employee of the Corporation against liability asserted against or incurred by such person in such capacity or arising from such person’s status as such.
 Subject to applicable statute, any person made or threatened to be made a party to any action, suit, or proceeding, by reason of the fact that he or she, his or her testator or intestate representative, is or was a director, officer, agent, or employee of the Corporation, shall be indemnified by the Corporation against the reasonable expenses, including attorney’s fees, actually and necessarily incurred by him or her in connection with such an action, suit, or proceeding. Notwithstanding the foregoing, no indemnification shall be made by the Corporation of judgment or other final determination establishes that the potential indemnificatee’s acts were committed in bad faith or were the result of active or deliberate fraud or dishonesty or clear and gross negligence.
 
-### Section 2. Corporate Records
+### Section 2. Records Required to Be Kept.  
+1.	The Cooperative shall keep:
+ a.	The original or a copy of its Articles and Bylaws as amended to date;
+ b.	Adequate and correct books and records of account;
+ c.	Minutes of the proceedings of its Members, Board, and committees of the Board; and
+ d.	A record of its Members, providing their names and addresses.
+2.	Minutes and other books and records shall be kept either in written form or in any other form capable of being converted into clearly legible tangible form or in any combination of the foregoing.
+
 Any shareholder of record, in person or by attorney or other agent, shall, upon written demand under oath stating the purpose thereof, have the right during the usual hours for business to inspect for any proper purpose the Corporation’s stock ledger, a list of its shareholders, and its other books and records, and to make copies or extracts therefrom. A proper purpose shall mean a purpose reasonably related to such person’s interest as a shareholder. In every instance in which an attorney or other agent shall be the person seeking the right to inspection, the demand under oath shall be accompanied by a power of attorney or such other writing authorizing the attorney or other agent to so act on behalf of the shareholder.
 
 The demand under oath shall be directed to the Corporation at its registered office or its principal place of business.
-
-### Section 3. Fiscal Year
-The fiscal year of the Corporation shall be the calendar year.
 
 ### Section 4. Seal
 The corporate seal shall be in such form as the Board of Directors shall approve. The seal may be used by causing it or a facsimile thereof to be impressed, affixed, or otherwise reproduced.
@@ -173,21 +255,269 @@ Whenever written notice is required to be given to any person, it may be given t
 ### Section 7. Waiver of Notice
 Whenever any written notice is required by law, or by the Articles of Incorporation or by these Bylaws, a waiver thereof in writing, signed by the person or persons entitled to such notice, whether before or after the time stated therein, shall be deemed equivalent to the giving of such notice.
  
-Except in the case of a special meeting of shareholders, neither the business to be conducted at nor the purpose of the meeting need be specified in the waiver of notice of the meeting. Attendance of a person either in person or by proxy, at any meeting, shall constitute a waiver of notice of such meeting, except where a person attends a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully convened or called.
+Except in the case of a special meeting of shareholders, neither the business to be conducted at nor the purpose of the meeting need be specified in the waiver of notice of the meeting. Attendance of a person either in person or by proxy, at any meeting, shall constitute a waiver of notice of such meeting, except where a person attends a meeting for the express purpose of objecting to the transaction of any business because the meeting was not lawfully convened or called. All waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meetings.
 
 ### Section 8. Amendments
 The Board of Directors shall have the power to make, adopt, alter, amend, and repeal from time to time the Bylaws of the Corporation except that the adoption, amendment, or repeal of any Bylaw regulating the election of directors shall be subject to the vote of shareholders entitled to cast at least a majority of the votes which all shareholders are entitled to cast at any regular or special meeting of the shareholders, duly convened after notice to the shareholders of that purpose.
 
-The foregoing Bylaws were adopted by the Board of Directors on
- 	, 2021. 	.
+### Section 9. Annual Report
+1.	The annual report shall be prepared no later than 120 days after the close of the Cooperative’s fiscal year and shall be distributed to Members at or before their next meeting.
+2.	The annual report shall contain in appropriate detail:
+ a.	A balance sheet as of the end of the fiscal year;
+ b.	An income statement;
+ c.	A cash flow statement of the fiscal year;
+ d.	A statement of where the names and addresses of current Members are located; and 
+ e.	An annual statement of transactions and indemnifications to “interested persons” as defined by law. 
+3.	For fiscal years in which the Cooperative has (at any given time) over 25 Members or Community Investors, the Cooperative shall notify each Member or Community Investor of his/her right to receive an annual financial report.
+4.	The annual report shall be accompanied by any pertinent report by independent accountants.
+5.	If there is no such report from an independent accountant, an authorized Officer of the Cooperative shall certify that the annual report was prepared from the books and records of the Cooperative, without audit.
+
+## Article IX - Members
+
+### Section 1. Classes of Members.
+The Cooperative shall have one class of Worker-members. The Cooperative shall have one class of Community Investors as specified in Section 1.7 of these Bylaws. No other classes of Members shall be created unless approved by then-existing classes of Members, according to the Articles of Incorporation and these Bylaws.
+
+### Section 2. Reference to “Member”.
+1. Any reference to “Member” or “Membership” in these Bylaws, without further specification of Member Class, shall mean Worker-members, or Worker-membership, as applicable.
+2.	Any reference to “Community Investor” in these Bylaws shall mean a person who belongs to the class of Community Investors.
+
+### Section 3. Becoming a Member. 
+To become a Member of this Cooperative, a person must:
+
+1. Be a worker in the cooperative, which is a natural person who contributes labor or services to the cooperative;
+2. Pay an Initial Capital Contribution; the amount of the Initial Capital Contribution will be determined by the Board of Directors;
+3. Work for the Cooperative for 2 months; this period of time is called the “Candidacy Period” and is described in Section 1.4;
+5. Be approved by the existing Worker-Members, by means of the process described in Sections IX.4 and IX.5;
+6. Receive a copy of the Cooperative's Disclosure Statement, Bylaws, and a receipt for payment of the Initial Capital Contribution; and
+7. Live in the State of Missouri, unless otherwise determined by the Board of Directors;
+
+### Section 4. Candidacy Period
+1. Workers seeking Worker-Membership in the cooperative must complete a candidacy period of at least 2 months.
+2. An individual candidate's candidacy period must last no longer than 6 months.
+3. A worker's candidacy period begins when the Board, or a person or committee appointed by the Board to manage candidacy, declares that his/her candidacy period begins and notifies that candidate that he/she is a candidate.
+
+### Section 5. Acceptance of Members. 
+The application review and approval process for a Prospective Member is as follows:
+ a. The Board of Directors or an empowered hiring committee shall receive the membership application from a Prospective Member and shall submit it to the Worker-Members for approval.
+ b. The Worker-Members shall then decide by the decision-making process described in Section 5.1 whether to approve the application.
+ c. If the application is not approved, the applicant’s employment shall be immediately terminated, unless the Worker-Members choose to specify a further Candidacy Period to be followed by a second decision of the Worker-Members on whether to approve the application.
+ d. Upon approval of the application, and meeting the qualifications listed in Section IX.2, the applicant shall immediately become a Member.
+ e. The Cooperative may waive the Candidacy Period and renew a former Worker-Member’s Membership immediately by a 75% vote of all the Worker-Members.
+
+### Section 6. Transferability of Memberships
+Memberships shall be non-assessable and may not be transferred, voluntarily or involuntarily, by operation of law or otherwise, except for a transfer to the Cooperative under the redemption provisions set forth in the articles of incorporation or in the Cooperative’s bylaws.
+
+### Section 7. Attributes of Community Investor Shares
+1.	The cooperative may issue shares of its capital stock to Community Investors. A “Community Investor” is defined as a person who is not a Worker-member and who holds a share or other proprietary interest in the Cooperative.
+2.	The cooperative is authorized to issue 2 million community investor shares. 
+3.	The voting power of holders of community investor shares is limited to approval rights only over the following actions: a merger, sale of major assets outside the ordinary course of business, reorganization, or dissolution. Additionally, community investors shall have the right to approve amendments to the articles of incorporation when required by law, pursuant to Cal Corp Code § 12503. 
+4.	Community investor shares may only be transferred under the prior written consent of the Cooperative. Any attempted assignment or transfer of shares contrary to these provisions shall be void, and will not confer rights on the intended assignee or transferee
+
+## Article X - Termination of Membership
+
+### Section 1. Resignation of a Member
+1. Every Worker-Member has the right to resign from the Cooperative.
+2. When a Worker-Member resigns from the Cooperative his or her Membership will be terminated.
+3.	To resign from the Cooperative, a Worker-member must provide the Secretary of the Cooperative with a written notice of resignation. The resignation shall become effective immediately without any action on the part of the Cooperative.  The individual who resigned from the Cooperative will not be allowed to work for the Cooperative for one month following voluntary termination of Worker-membership unless her or his membership is renewed by the Cooperative.
+4.	If a Worker-member resigns, he or she is still responsible for any charges, dues, or other obligations that the Worker-member owes to the Cooperative. The Cooperative shall still have the right to enforce any such obligation or obtain damages for its breach.
+
+### Section 2. Death of Member
+A Membership shall immediately terminate upon the death of a Member.
+
+### Section 3. Expulsion of a Member.
+No Worker-member may be expelled or suspended except according to procedures satisfying the requirements of this section:
+1.	A Worker-member may, for any lawful reason, be expelled from the Cooperative by a vote  pursuant to Section 5.1 [or specify a higher threshold here] of the Worker-members at a duly called meeting at which a quorum is present.
+2.	The Worker-member must be given 15 days’ prior notice of the expulsion, suspension, or termination, and the reasons for that expulsion, suspension, or termination.
+3.	The Worker-member shall have an opportunity to be heard, orally or in writing, not less than five days before the effective date of expulsion, suspension, or termination, by a person or body authorized to decide that the proposed expulsion, termination, or suspension not take place.
+4.	Any notice required under this section may be given by any method reasonably calculated to provide actual notice.  Any notice given by mail must be given by first-class or registered mail sent to the last address of the Worker-member shown on the Cooperative’s records.
+5.	A Worker-member who is expelled or suspended shall be liable for any charges, dues, or other obligations incurred before the expulsion, suspension, or termination.
+6.	The Cooperative may direct a Worker-member whose expulsion is being considered to refrain from conducting business as a Worker-member until the expulsion decision is made, provided the Cooperative pays the Worker-member her or his average weekly wage or compensation – calculated based on the three months preceding the date of the notice given pursuant to this section – until the expulsion decision is made. The Cooperative may also direct a Worker-member whose expulsion is being considered to stay away from the Cooperative’s places of business except as necessary to exercise her or his rights under law.
+
+## Article XI - Member Meetings
+
+### Section 1.	Voting
+1.	Each Worker-member shall have one vote on each matter submitted for a vote.
+2.	Each community investor shall have one vote on only those decisions in which community investors may participate as specified in the Articles of Incorporation.
+3.	If any vote requires that Members cast a written ballot, only Members that have been Members of the Cooperative for more than 10 days prior to the meeting date are entitled to cast ballots. 
+4.	Unless otherwise specified, all votes shall be conducted using the processes in Article 5.
+
+### Section 2.	Member Authority
+1.	Members shall elect the Board of Directors.
+2.	Members or Community Investors of a respective Member Class must approve changes to these Bylaws that would: 
+3.	Materially and adversely affect the rights or obligations of that Class as to voting, dissolution, redemption, transfer, distributions, patronage distributions, patronage, property rights, or rights to repayment of contributed capital;
+4.	Increase or decrease the number of memberships authorized for that Class;
+5.	Increase the number of memberships authorized for another Class, if there was formerly a set limit to the number of memberships authorized for that Class;
+6.	Effect an exchange, reclassification or cancellation of all or part of that Class’ memberships;
+7.	Authorize a new Class of memberships.
+
+### Section 3.	Annual Members Meeting
+1.	The Annual Members Meeting shall be held on the [first Thursday in November at 7:00 pm] at the Cooperative’s main office, unless the Board determines sets a different date and time and complies with the meeting notice provisions of these bylaws.
+2.	If the meeting falls on a holiday it should be held at the same time/place the following business day.
+3.	At this meeting, the Members shall conduct Board elections and conduct any other proper business. The Treasurer will present the annual report at this meeting.
+4.	Requests by Members to include any issue in the Annual Members Meeting notice to be voted upon by the Membership must be presented to the Board in writing no later than September 1st, prior to the Annual Meeting
+
+### Section 4. Special Member Meetings
+1.	Special meetings of the Members for any lawful purpose may be called by the Board, President, Secretary, or by at least 5% of the individual Members of either class. However, if there are more than four Worker-members, a special meeting may only be called by the greater of: three Worker-members; or 5% of the Worker-members. If there are fewer than four Worker-members, special meetings may be called by one Worker-member.
+2.	The procedure for calling a special Members meeting shall be as follows: 
+3.	The person(s) requesting the special meeting shall submit a written request to the Cooperative addressed to the attention of the President or Secretary;
+4.	Within 20 days after receipt, the President or Secretary shall cause notice to be given to the Members entitled to vote that a meeting will be held at a time fixed by the Board not less than 35 nor more than 90 days after the receipt of the request.   
+
+### Section 5.	Notices Generally 
+1.	Notice of a Members’ meeting or any report shall be given by electronic transmission, or by mail or other means of written communication, addressed to a Member or Community Investor at the address of such person appearing on the books of the Cooperative or given by the person to the Cooperative for purpose of notice. Notwithstanding the above, notice given to Worker-members less than 10 days before the date of the meeting must be delivered personally according to section 3.6.  
+2.	Members Entitled to Notice.  Any Member shall be entitled to notice of any meeting at which their class of membership shall cast votes, and to the annual Member meeting, so long as their Membership became official 30 days before the meeting date.
+3.	The notice shall state the following:
+ a.	Meeting place, date, and time of the meeting;
+ b.	If applicable, the log-in or call-in information for telephone/video/web conference; 
+ c.	In the case of a special meeting, the general nature of the  business to be transacted, and that no other business may be transacted, or
+ d.	In the case of the regular meeting, those matters which the Board intends to present for action by the Members.  The notice of any meeting at which Officers are to be elected shall include the names of the nominees.
+4.	Notwithstanding the above, any of the following decisions, other than by unanimous approval by those entitled to vote, shall be valid only if the general nature of the proposal was stated in the notice of meeting or in any written waiver of notice:
+ a.	Removal of Worker-members or Board members;
+ b.	Election of an Officer to fill a vacancy;
+ c.	Approval of a contract or other transaction between the Cooperative and one or more of its Directors, or between the Cooperative and any corporation, firm, or association in which one or more of its Directors has a material financial interest or is a Director;
+ d.	Amendment of the articles of incorporation; and
+ e.	Approval of a plan of distribution upon dissolution of the Cooperative
+ 
+### Section 6. Notice of Worker-member meetings
+Whenever the Worker-members are required or permitted to take any action at a meeting, and the meeting is a meeting of only Worker-members, the Cooperative shall provide personal notice not less than 48 hours before the meeting to all Worker-members who are entitled to vote on the record date for notice of the meeting. If delivery of personal service to all Worker-members is not possible, the Cooperative shall give written notice not less than 10 days nor more than 90 days before the date of the meeting.
+
+### Section 7. Notice of other meetings
+Whenever community investors are required or permitted to take any action at a meeting, a written notice of the meeting shall be given not less than 10 nor more than 90 days before the date of the meeting to each Member who, on the record date for notice of the meeting, is entitled to vote.
+
+### Section 8.	Meetings Held Without Proper Notice.  
+1.	Members not present: The transactions of a meeting, whether or not validly called and noticed, are valid if a quorum is present and each of the absent Members who is entitled to vote, either before or after the meeting, signs either: a written waiver of notice, a consent to the holding of the meeting, or an approval of the minutes of the meeting.  All waivers, consents, and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
+2.	Members present: A Member's attendance at a meeting shall constitute a waiver of notice of and presence at the meeting, unless the Member objects at the beginning of the meeting.  However, attendance at a meeting is not a waiver of any right to object to the consideration of matter required to be included in the notice but not included, if an objection is made at the meeting.
+
+### Section 9. Use of Electronic Ballots at Meetings.  
+1.	Electronic ballots will be used for the election of Officers and may be used for Directors, when applicable. Written ballots may also be distributed for these and other matters if the Board authorizes.
+2.	Ballots for Officer and Director elections must:
+ a.	Be distributed at least 10 days before the annual meeting;
+ b.	Include the names of all nominees; and
+ c.	Include a space for write-in candidates.
+3.	Other written ballots must:
+ a.	Describe the proposed action; and 
+ b.	Provide an opportunity to approve or disapprove of the proposed action.
+4.	All ballots shall specify:
+ a.	The number of responses necessary to reach quorum; and 
+ b.	The deadline by which the ballot must be filled out and turned in, in order to be counted.
+5.	When ballots are distributed at a meeting, the number of Members voting shall be considered present for the purposes of determining quorum with respect to the specific actions in the ballot.
+
+### Section 10. Quorum
+A majority of Members of a class shall constitute a quorum at a meeting of Members of that class. When a quorum is present, proposals shall be adopted using the processes as described in Section 5, unless otherwise required in the Articles or Bylaws.
+
+### Section 11. Loss of Quorum at a Meeting
+If there is a quorum present at the beginning of a meeting and then some Members leave so that less than a quorum remains, the remaining Members may continue to conduct business, as long as any actions they take (other than adjournment) adhere to the number of votes of the Members required to constitute a quorum for that class. 
+
+### Section 12. Adjournment for Lack of Quorum
+In the absence of quorum, a majority of present Members can vote to adjourn the meeting, and no other business may be transacted, except as provided in Section 3.10 above.
+
+### Section 13.	Adjourned Meetings.  
+1.	If a meeting is adjourned to a new time/place, Members may conduct any business at the new meeting that could have been conducted at the original meeting.
+2.	If the new meeting is announced at the original meeting, no additional notice is required.  However, if the new meeting is more than 45 days after the original meeting or if a new record date is fixed for the adjourned meeting, notice of the new meeting must be given to each Member entitled to vote at that meeting.
+
+### Section 14.	Action Without Meetings
+1.	Any action which may be taken at any regular or special Members meeting may be taken without a meeting if the Cooperative distributes a written ballot to every Member entitled to vote on that proposal.  
+2.	The written ballot shall set forth the proposal, provide the opportunity to specify approval or disapproval of the proposal, indicate the number of responses needed to meet quorum, the percentage of approvals necessary to pass the proposal; and provide a reasonable time within which to return the ballot. 
+3.	Approval under this section shall be valid only when:
+ a.	The Cooperative receives within the specified timeframe a number of written ballots that is at least equal to the quorum required for a meeting; and
+ b.	The number of approvals is at least equal to the number of approvals required at a meeting.
+4.	The Secretary shall cause a vote to be taken by written ballot upon any action or recommendation proposed in writing by 20 percent of the Members.
+
+## Article XII. Meeting of the Board of Directors
+
+## Section 1.	Directors and Board Composition
+1.	The Initial Board of Directors shall be comprised of five Directors and shall have a two year term. 
+2.	There shall be no fewer than 3 and no more than 21 Directors of the Corporation, with the exact number of Directors to be fixed, within the limits specified, by the Board. 
+3. A person whose Membership is terminated shall immediately cease to be a Director.
+
+## Section 2. Director Voting
+Directors shall vote using the process described in Section 5.1.  
+1.	The Initial Board of Directors shall be comprised of {three} Directors and shall have a {three} year term. 
+2.	There shall be no fewer than 3 and no more than 21 Directors of the Corporation, with the exact number of Directors to be fixed, within the limits specified, by the Board. 
+
+### Article XII - Decision-Making Process
+
+### Section 1.	Decision-Making Process for the Directors and the Worker-member class
+Matters will be discussed with the goal of reaching consensus
+1.	If consensus cannot be reached, Worker-members will vote on whether the issue must be decided at the current meeting or can be tabled for future discussion. Each Worker-member is entitled to one vote.
+2.	If at least three-fourths of the quorum believe that an immediate decision is needed, voting will be held on proposals regarding the issue.
+3.	The proposals can then be carried by a three-fourths vote, except as otherwise provided in these bylaws.
+
+### Section 2. Decision-making process for the community investor class.
+Each Community Investor will be entitled to one vote on any matter submitted for a vote. Unless otherwise specified in these Bylaws, a majority of votes cast are required to pass a matter submitted to a vote.
+
+## Article XIII - Financial Provisions
+
+### Section 1. Definitions
+1.	“Surplus” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to Member labor.  
+2.	“Profit” shall be defined as the excess of revenues over Expenses for a fiscal year attributable to non-Member labor.  
+3.	“Loss” shall be defined as the excess of Expenses over revenues for a fiscal year.
+4.	Surplus, Profit, and Loss shall be determined on a tax basis.  Surplus and Profit shall not include cash contributions by Members to capital.
+5.	“Expenses” shall include Distributions paid pursuant to Section 7.6, payments of any interest and principal on any debts of the Cooperative, and reasonable reserves as determined by the Board of Directors.  
+6.	The “Collective Account” shall be Surplus, Profit, and reserves that, with the exception of the portion designated as the Community Investor account, are retained in the Cooperative and not distributed to Members.  
+7.	“Patronage” shall be defined as hours worked by each Worker-member for the Cooperative.
+8.	“Patronage Dividends” shall have the definition contained in Internal Revenue Code Section 1388(a) (dividends paid to Members based on Patronage). 
+9.	“Worker-member Account” shall be defined as each Worker-member’s capital account in the Cooperative, which is calculated as initial capital contribution plus written notices of allocation minus Distributions minus Losses plus/minus any other item that affects the balance in the Member’s capital account. 
+10.	“Distribution” means the distribution of interest on capital contributed, but does not include Patronage Dividends.
+11.	“Community Investor Account” shall be defined as a portion of the Collective Account which represents the value of the claim of Community Investor shareholders.
+12.	“Deemed Liquidation Event” shall mean (a) a consolidation, merger or other similar transaction of or involving the Corporation in which  the  Worker-members of the Corporation  immediately  prior to such consolidation, merger or other similar transaction do not continue to hold, immediately after the consummation of such consolidation, merger or other similar transaction, a majority of  the voting power  of the equity  interests of the surviving entity, or (b) a sale or other transfer of all or substantially all of the Corporation’s assets to a third party.
+13.	“Indivisible Reserves Account” shall mean an account derived from non-patronage-sourced income to be used as capital for the cooperative, that will not be distributed to Members, and that must, upon dissolution, be allocated to a cooperative development organization identified in the cooperative’s articles of incorporation or bylaws.
+
+### Section 2. Fiscal Year
+The fiscal year of the Corporation shall be the calendar year.
+
+### Section 2.	Allocations
+1.	Any Profit shall be credited to the Collective Account {and/or to the Indivisible Reserves Account}, as determined by the Board.
+2.	Any Surplus shall be credited to the Collective Account as necessary to (1) bring the year’s contribution to the Collective Account up to 25% of the year’s combined Profit/Surplus, and (2) allocate community investor accruing dividends pursuant to 7.10.  All other Surplus shall be paid as Patronage Dividends in direct proportion to Patronage during the fiscal year.
+3.	Any Loss shall be allocated 75% to Worker-member Accounts in direct proportion to Patronage during the fiscal year and 25% to the Collective Account, with the exception of Losses occurring and/or carried over from the Cooperative’s first two fiscal years, which shall be allocated 100% to the Collective Account.
+4.	The percentages referred to in this section can be changed for a coming fiscal year by the Board.
+**NEEDS REVIEW BY CPA/ATTORNEY**
+
+### Section 3. Patronage Dividends
+1.	Patronage Dividends shall be made 50% in cash and 50% to each individual Worker-member Account as a written notice of allocation, unless different proportions are approved by the Board within eight-and-a-half months of the fiscal year’s close – however, at least 20% must be distributed in cash.  
+2.	Patronage Dividends may be by qualified or non-qualified written notices of allocation or a combination of the two.
+
+### Section 4. Worker-members’ Covenant to Declare Income for Tax Purposes
+Each Worker-member shall take into account on his or her income tax return any Patronage Dividends which are made in qualified written notices of allocation (as defined in 26 U.S.C. Section 1388) at their stated dollar amounts in the manner provided in 26 U.S.C. Section 1385(a) in the taxable year in which the Worker-member receives such written notices of allocation.
+
+### Section 5.	Distributions of Interest on Member Accounts
+The Cooperative may, by a decision of the Board, pay interest to Members on the Members Accounts.  The interest may be paid in cash or as an additional credit to the Member Accounts. The rate of interest shall be determined by the Board, but may not, in one year, exceed 15 percent of each Member’s contributed capital, which includes capital contributions, membership fees, and capital credits.
+
+### Section 6.	Periodic Redemption of Worker-member Accounts.  
+1.	The Cooperative shall aim to pay out in cash to the Members all funds credited to their Member Accounts within three years of the date they were first credited.  
+2.	As a general rule, written notices of allocation credited to Worker-member Accounts (including notices now converted to debt) will be paid out in the order in which they are credited, with the oldest paid out first. However, the Board can decide to accelerate the repayment of debt owed to former Worker-members on a case-by-case basis.  
+3.	If the Cooperative does not have sufficient funds to pay out all funds credited to Worker-member Accounts for a given fiscal year, then funds will be paid out in proportion to the balance in the Worker-member Accounts.
+
+### Section 7.	Payment Rights Upon Membership Termination. 
+1.	When a Membership is terminated for any reason, including a Member’s death, the amount in the Member Account will automatically be converted to debt owed to the former Member, or, if necessary, to the Member’s estate, or to another assignee designated by the Member.
+2.	The Cooperative shall repay the debt within five years of the Membership termination, with interest accruing at the discount rate – as set by the Federal Reserve Bank of St Louis – plus two percent, on the amount outstanding at the end of each fiscal year.
+3.	The Cooperative, in settling a Member Account, shall have the right to set off any and all indebtedness of the former Member to the Cooperative.
+
+### Section 8. Priority of Payments.
+Notwithstanding anything else to the contrary in this Article, payments by the Cooperative shall be made in the following order of priority:
+1.	First, to make payments of any necessary expenses related to the operation of the cooperative, including wages, and payments of any interest and principal on any debts of the Cooperative,
+2.	Second, to pay any Accruing Dividends on community investor shares;
+3.	Third, to pay Patronage Dividends to all eligible Worker-members,
+4.	Fourth, to pay Distributions to all eligible Worker-members, and
+5.	Fifth, to make periodic redemptions pursuant to Section 7.8.
+
+### Section 9.	Unclaimed Equity Interests.
+Any proprietary interest in the Cooperative held by a Member {or Community Investor} that would otherwise escheat to the State of California as unclaimed personal property shall instead become the property of the Cooperative if the Cooperative gives at least 60 days prior notice of the proposed transfer to the affected Member {or Community Investor} by (1) first-class or second-class mail to the last address of the Member {or Community Investor} shown on the Cooperative’s records, and (2) by publication in a newspaper of general circulation in the county in which the Cooperative has its principal office.  No property or funds shall become the property of the Cooperative under this section if written notice objecting to the transfer is received by the Cooperative from the affected Member {or Community Investor} prior to the date of the proposed transfer.
+
+## Article XIV - Indemnification
+The Cooperative shall have the power to indemnify its Officers, Directors, Members, employees, and agents to the fullest extent permitted by law.
+
+## Article XV - Bylaws Changes
+In the circumstances defined in Section 3.2, these Bylaws can only be changed by a vote as Worker-members.  All other Bylaws changes can be effected by a vote as Directors.
 
 
-SECRETARY’S SIGNATURE
+CERTIFICATE OF SECRETARY
+I certify that I am the duly elected and acting Secretary of LouTech Cooperative that these Bylaws, consisting of ___________ pages, are the Bylaws of this cooperative as adopted by the Members on __________________, 2021 and that these Bylaws have not been amended or modified since that date.  
+Executed on ________________, 2021 at St Louis, Missouri, by 
 
 
+_________________________________.
+Name, Secretary
 
-
-SECRETARY (PRINT)
 
 
 
@@ -205,9 +535,6 @@ SHAREHOLDER’S NAME - NUMBER (#) OF SHARES
 10.
 11.
 12.
-
-
-
 
 
 
