@@ -2,7 +2,9 @@
 
 - [raising capital](https://resources.uwcc.wisc.edu/Finance/Cooperative%20Equity%20and%20Ownership.pdf)
 
-- [guide to starting a co-op](https://cdi.coop/wp-content/uploads/2014/01/CDIcompletestart-uppkt2010.pdf)
+- [steps to starting a co-op 1](https://institute.coop/sites/default/files/resources/348%201997_Hansen%20et%20al_Steps%20to%20Starting%20A%20Worker%20Coop.pdf)
+
+- [steps to starting a co-op 2](https://cdi.coop/wp-content/uploads/2014/01/CDIcompletestart-uppkt2010.pdf)
 
 - [ride-sharing app](https://testdriven.io/courses/taxi-react/)
 
